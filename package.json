@@ -1,0 +1,22 @@
+{
+  "name": "abhi",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekgupta47/node-js.git"
+  },
+  "author": "abhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekgupta47/node-js/issues"
+  },
+  "homepage": "https://github.com/Abhishekgupta47/node-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
