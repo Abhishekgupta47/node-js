@@ -1,1 +1,3 @@
-console.log("hello world");
+const lavish = require("./second");
+
+console.log("hello world",lavish);
